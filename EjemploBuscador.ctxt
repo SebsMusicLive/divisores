@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EjemploBuscador
+comment1.params=x
+comment1.target=boolean\ buscar(int)
+comment2.params=x
+comment2.target=int\ buscar2(int)
+comment3.params=x
+comment3.target=int\ contar(int)
+comment4.params=x
+comment4.target=void\ calcularOcurrencias(int)
+comment5.params=
+comment5.target=void\ probar()
+numComments=6

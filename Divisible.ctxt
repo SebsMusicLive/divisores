@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Divisible
+comment1.params=numero
+comment1.target=int\ cantidad(int)
+comment2.params=
+comment2.target=void\ divisores()
+numComments=3
